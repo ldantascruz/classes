@@ -2,7 +2,7 @@ void main() {
   saudacoes(
     "Lucas Cruz",
   );
-}
+  }
 
 void saudacoes(
   String nome, {
